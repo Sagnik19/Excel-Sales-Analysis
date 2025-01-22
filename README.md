@@ -5,7 +5,7 @@ This repository contains a detailed analysis of AtliQ Hardwares' sales and perfo
 ## Project Objectives:
 
 1. Create a _[Customer Performance Report](https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/Customer%20Performance%20Report.pdf)_.
-2. Conduct a comprehensive comparison between _[Market Performance and Sales Targets](https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/Customer%20Performance%20Report.pdf)_.
+2. Conduct a comprehensive comparison between _[Market Performance and Sales Targets]([https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/Customer%20Performance%20Report.pdf](https://github.com/Sagnik19/Excel-Sales-Analysis/tree/main).
 
 ## Purpose of Sales Analytics:
 - Monitor and evaluate sales activities and performance.
