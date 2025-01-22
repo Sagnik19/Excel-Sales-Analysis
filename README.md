@@ -4,8 +4,8 @@ This repository contains a detailed analysis of AtliQ Hardwares' sales and perfo
 
 ## Project Objectives:
 
-1. Create a _[Customer Performance Report](https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/Customer%20Performance%20Report.pdf)_.
-2. Conduct a comprehensive comparison between _[Market Performance and Sales Targets]([https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/Customer%20Performance%20Report.pdf](https://github.com/Sagnik19/Excel-Sales-Analysis/tree/main).
+1. Create a _[Customer Performance Report](https://github.com/Sagnik19/Excel-Sales-Analysis/blob/main/Customar_Net_Sales_Performance.pdf)_.
+2. Conduct a comprehensive comparison between _[Market Performance and Sales Targets](https://github.com/Sagnik19/Excel-Sales-Analysis/blob/main/Market_Performance_vs_Target.pdf)_.
 
 ## Purpose of Sales Analytics:
 - Monitor and evaluate sales activities and performance.
@@ -21,8 +21,8 @@ This repository contains a detailed analysis of AtliQ Hardwares' sales and perfo
 ## Finance Report
 
 ### Objectives:
-1. Create Profit and Loss (P&L) reports by _[Fiscal Year](https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/P%26L%20Statement%20by%20Fiscal%20Year.pdf)_ and _[Months](https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/P%26L%20Statement%20by%20Months.pdf)_.
-2. Create Profit and Loss (P&L) reports by _[Markets](https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/P%26L%20Statement%20by%20Markets.pdf)_.
+1. Create Profit and Loss (P&L) reports by _[Fiscal Year](https://github.com/Sagnik19/Excel-Sales-Analysis/blob/main/P%26L_Year.pdf)_ and _[Months](https://github.com/Sagnik19/Excel-Sales-Analysis/blob/main/P%26L_By_Fiscal_Months_and_Net_Sales_Comparison.pdf)_.
+2. Create Profit and Loss (P&L) reports by _[Markets](https://github.com/Sagnik19/Excel-Sales-Analysis/blob/main/P%26L_Year_For_Markets.pdf)_.
 
 ### Purpose of Financial Analytics:
 - Evaluate financial performance.
